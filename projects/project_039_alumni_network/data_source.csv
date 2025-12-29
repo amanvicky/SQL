@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-039-0001,ACTIVE,High priority operational event,2796.19
+REF-039-0002,ACTIVE,User initiated action entry,2957.22
+REF-039-0003,COMPLETED,User initiated action entry,732.47
+REF-039-0004,PENDING,User initiated action entry,2654.54
+REF-039-0005,COMPLETED,Batch processed transaction,798.07
+REF-039-0006,INACTIVE,High priority operational event,3082.07
+REF-039-0007,COMPLETED,High priority operational event,4301.49
+REF-039-0008,ARCHIVED,User initiated action entry,1024.08
+REF-039-0009,ARCHIVED,Standard system log record,3749.33
+REF-039-0010,PENDING,High priority operational event,3775.32
+REF-039-0011,ARCHIVED,High priority operational event,702.27
+REF-039-0012,INACTIVE,Automated IoT sensor telemetry data,1883.08
+REF-039-0013,INACTIVE,User initiated action entry,2995.38
+REF-039-0014,ACTIVE,Batch processed transaction,3313.41
+REF-039-0015,PENDING,Standard system log record,1000.6
+REF-039-0016,INACTIVE,Batch processed transaction,719.39
+REF-039-0017,ARCHIVED,User initiated action entry,4831.7
+REF-039-0018,PENDING,Standard system log record,3992.07
+REF-039-0019,INACTIVE,High priority operational event,1881.38
+REF-039-0020,ACTIVE,User initiated action entry,1951.36
+REF-039-0021,INACTIVE,Standard system log record,362.74
+REF-039-0022,ARCHIVED,High priority operational event,3845.1
+REF-039-0023,INACTIVE,User initiated action entry,2437.42
+REF-039-0024,COMPLETED,High priority operational event,4323.58
+REF-039-0025,PENDING,User initiated action entry,643.58
