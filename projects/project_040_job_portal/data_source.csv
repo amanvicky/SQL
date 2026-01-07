@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-040-0001,ACTIVE,High priority operational event,2259.71
+REF-040-0002,PENDING,Batch processed transaction,589.33
+REF-040-0003,PENDING,High priority operational event,138.42
+REF-040-0004,PENDING,User initiated action entry,449.65
+REF-040-0005,COMPLETED,Automated IoT sensor telemetry data,4984.7
+REF-040-0006,ACTIVE,Automated IoT sensor telemetry data,2971.77
+REF-040-0007,ACTIVE,Standard system log record,1113.79
+REF-040-0008,COMPLETED,User initiated action entry,3985.72
+REF-040-0009,ACTIVE,Automated IoT sensor telemetry data,4826.13
+REF-040-0010,PENDING,Standard system log record,1153.59
+REF-040-0011,ARCHIVED,User initiated action entry,1493.22
+REF-040-0012,ARCHIVED,User initiated action entry,3690.44
+REF-040-0013,COMPLETED,Standard system log record,3858.4
+REF-040-0014,COMPLETED,User initiated action entry,4498.57
+REF-040-0015,ACTIVE,User initiated action entry,197.79
+REF-040-0016,ARCHIVED,High priority operational event,4855.03
+REF-040-0017,ARCHIVED,Automated IoT sensor telemetry data,3740.92
+REF-040-0018,ACTIVE,Standard system log record,1537.03
+REF-040-0019,COMPLETED,Automated IoT sensor telemetry data,1486.52
+REF-040-0020,COMPLETED,Automated IoT sensor telemetry data,4949.75
+REF-040-0021,PENDING,User initiated action entry,3722.53
+REF-040-0022,COMPLETED,User initiated action entry,3551.56
+REF-040-0023,ARCHIVED,Automated IoT sensor telemetry data,3130.38
+REF-040-0024,ARCHIVED,User initiated action entry,211.7
+REF-040-0025,COMPLETED,Batch processed transaction,127.93
