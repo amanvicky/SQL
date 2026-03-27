@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-048-0001,ARCHIVED,Batch processed transaction,1018.28
+REF-048-0002,COMPLETED,Batch processed transaction,4549.32
+REF-048-0003,INACTIVE,Standard system log record,2456.25
+REF-048-0004,PENDING,User initiated action entry,1994.15
+REF-048-0005,INACTIVE,User initiated action entry,2868.59
+REF-048-0006,ACTIVE,Batch processed transaction,687.18
+REF-048-0007,PENDING,User initiated action entry,1573.68
+REF-048-0008,ACTIVE,User initiated action entry,3010.01
+REF-048-0009,ARCHIVED,High priority operational event,4902.78
+REF-048-0010,ACTIVE,User initiated action entry,437.76
+REF-048-0011,ACTIVE,High priority operational event,3544.26
+REF-048-0012,PENDING,User initiated action entry,864.43
+REF-048-0013,ARCHIVED,Standard system log record,2059.88
+REF-048-0014,COMPLETED,Batch processed transaction,2783.93
+REF-048-0015,ARCHIVED,Batch processed transaction,1332.6
+REF-048-0016,ACTIVE,High priority operational event,3564.65
+REF-048-0017,PENDING,User initiated action entry,2186.23
+REF-048-0018,PENDING,High priority operational event,415.55
+REF-048-0019,PENDING,User initiated action entry,1729.1
+REF-048-0020,PENDING,Automated IoT sensor telemetry data,770.29
+REF-048-0021,ARCHIVED,User initiated action entry,3039.17
+REF-048-0022,ACTIVE,Automated IoT sensor telemetry data,209.44
+REF-048-0023,ARCHIVED,User initiated action entry,3178.34
+REF-048-0024,COMPLETED,High priority operational event,628.9
+REF-048-0025,PENDING,Automated IoT sensor telemetry data,2402.61
