@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-049-0001,ARCHIVED,User initiated action entry,3399.18
+REF-049-0002,ACTIVE,Batch processed transaction,2469.9
+REF-049-0003,COMPLETED,Batch processed transaction,1951.66
+REF-049-0004,ACTIVE,Batch processed transaction,4353.52
+REF-049-0005,ARCHIVED,User initiated action entry,1536.57
+REF-049-0006,ACTIVE,High priority operational event,2512.24
+REF-049-0007,ACTIVE,Batch processed transaction,534.75
+REF-049-0008,ACTIVE,Standard system log record,126.42
+REF-049-0009,COMPLETED,User initiated action entry,1077.95
+REF-049-0010,PENDING,User initiated action entry,4753.75
+REF-049-0011,ARCHIVED,User initiated action entry,1263.26
+REF-049-0012,ACTIVE,Automated IoT sensor telemetry data,4074.6
+REF-049-0013,COMPLETED,Standard system log record,1311.69
+REF-049-0014,ACTIVE,Standard system log record,3826.32
+REF-049-0015,INACTIVE,Automated IoT sensor telemetry data,2093.84
+REF-049-0016,ACTIVE,Standard system log record,3236.65
+REF-049-0017,INACTIVE,Automated IoT sensor telemetry data,1684.27
+REF-049-0018,COMPLETED,Batch processed transaction,4623.57
+REF-049-0019,ACTIVE,User initiated action entry,3508.26
+REF-049-0020,ACTIVE,Standard system log record,728.38
+REF-049-0021,ARCHIVED,Standard system log record,1347.75
+REF-049-0022,INACTIVE,Batch processed transaction,4286.61
+REF-049-0023,ARCHIVED,Standard system log record,4687.2
+REF-049-0024,COMPLETED,High priority operational event,2995.89
+REF-049-0025,COMPLETED,Batch processed transaction,3165.17
