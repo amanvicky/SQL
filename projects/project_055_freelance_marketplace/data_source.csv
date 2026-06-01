@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-055-0001,COMPLETED,User initiated action entry,1594.81
+REF-055-0002,COMPLETED,User initiated action entry,300.94
+REF-055-0003,ACTIVE,Batch processed transaction,2925.8
+REF-055-0004,PENDING,Automated IoT sensor telemetry data,1551.04
+REF-055-0005,ARCHIVED,Batch processed transaction,3426.43
+REF-055-0006,PENDING,Standard system log record,1272.02
+REF-055-0007,ACTIVE,Automated IoT sensor telemetry data,884.13
+REF-055-0008,PENDING,User initiated action entry,4623.69
+REF-055-0009,ACTIVE,High priority operational event,4620.32
+REF-055-0010,PENDING,User initiated action entry,695.0
+REF-055-0011,ARCHIVED,User initiated action entry,3353.96
+REF-055-0012,ACTIVE,Standard system log record,1019.12
+REF-055-0013,ARCHIVED,Batch processed transaction,2497.11
+REF-055-0014,PENDING,Standard system log record,390.7
+REF-055-0015,ACTIVE,High priority operational event,3765.73
+REF-055-0016,PENDING,Automated IoT sensor telemetry data,4212.52
+REF-055-0017,COMPLETED,Batch processed transaction,1574.01
+REF-055-0018,ACTIVE,High priority operational event,2441.49
+REF-055-0019,ACTIVE,Batch processed transaction,2584.49
+REF-055-0020,INACTIVE,Standard system log record,982.29
+REF-055-0021,ACTIVE,Standard system log record,3659.08
+REF-055-0022,ARCHIVED,Standard system log record,3120.63
+REF-055-0023,ACTIVE,Automated IoT sensor telemetry data,4851.41
+REF-055-0024,PENDING,High priority operational event,4733.2
+REF-055-0025,ACTIVE,Batch processed transaction,858.34
