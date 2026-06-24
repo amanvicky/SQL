@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-062-0001,ACTIVE,High priority operational event,3815.49
+REF-062-0002,PENDING,Automated IoT sensor telemetry data,4555.76
+REF-062-0003,PENDING,User initiated action entry,3639.17
+REF-062-0004,INACTIVE,User initiated action entry,3344.46
+REF-062-0005,ARCHIVED,Standard system log record,4882.29
+REF-062-0006,COMPLETED,Batch processed transaction,4172.25
+REF-062-0007,INACTIVE,Automated IoT sensor telemetry data,4826.12
+REF-062-0008,COMPLETED,Standard system log record,1107.11
+REF-062-0009,ARCHIVED,Automated IoT sensor telemetry data,4659.05
+REF-062-0010,PENDING,User initiated action entry,3408.51
+REF-062-0011,ARCHIVED,User initiated action entry,2002.5
+REF-062-0012,ACTIVE,Batch processed transaction,3126.53
+REF-062-0013,INACTIVE,User initiated action entry,1205.91
+REF-062-0014,ACTIVE,Batch processed transaction,2428.76
+REF-062-0015,INACTIVE,Batch processed transaction,3399.29
+REF-062-0016,INACTIVE,Automated IoT sensor telemetry data,1216.29
+REF-062-0017,INACTIVE,Standard system log record,1337.74
+REF-062-0018,ACTIVE,User initiated action entry,1492.4
+REF-062-0019,ARCHIVED,High priority operational event,3915.59
+REF-062-0020,ACTIVE,User initiated action entry,816.2
+REF-062-0021,ARCHIVED,User initiated action entry,3083.57
+REF-062-0022,ARCHIVED,Standard system log record,4931.73
+REF-062-0023,COMPLETED,User initiated action entry,96.23
+REF-062-0024,PENDING,Automated IoT sensor telemetry data,2612.09
+REF-062-0025,PENDING,Standard system log record,4677.56
