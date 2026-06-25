@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-079-0001,PENDING,Batch processed transaction,3920.74
+REF-079-0002,ARCHIVED,High priority operational event,4391.0
+REF-079-0003,PENDING,High priority operational event,3523.12
+REF-079-0004,INACTIVE,Standard system log record,3850.81
+REF-079-0005,ARCHIVED,Standard system log record,1594.96
+REF-079-0006,COMPLETED,Batch processed transaction,459.58
+REF-079-0007,ACTIVE,Batch processed transaction,4314.33
+REF-079-0008,ACTIVE,User initiated action entry,4755.52
+REF-079-0009,PENDING,Automated IoT sensor telemetry data,953.73
+REF-079-0010,ACTIVE,Standard system log record,2688.53
+REF-079-0011,INACTIVE,Automated IoT sensor telemetry data,2051.86
+REF-079-0012,ACTIVE,Batch processed transaction,2678.43
+REF-079-0013,COMPLETED,Standard system log record,3021.94
+REF-079-0014,COMPLETED,Standard system log record,2224.28
+REF-079-0015,INACTIVE,Batch processed transaction,2024.52
+REF-079-0016,INACTIVE,Automated IoT sensor telemetry data,571.13
+REF-079-0017,INACTIVE,High priority operational event,2231.13
+REF-079-0018,PENDING,Standard system log record,1646.94
+REF-079-0019,PENDING,Batch processed transaction,435.68
+REF-079-0020,INACTIVE,Automated IoT sensor telemetry data,3017.09
+REF-079-0021,ARCHIVED,User initiated action entry,3018.17
+REF-079-0022,PENDING,Standard system log record,1827.92
+REF-079-0023,ACTIVE,High priority operational event,2967.34
+REF-079-0024,PENDING,High priority operational event,1463.19
+REF-079-0025,COMPLETED,High priority operational event,2155.61
