@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-073-0001,PENDING,Standard system log record,3066.16
+REF-073-0002,PENDING,High priority operational event,293.44
+REF-073-0003,PENDING,User initiated action entry,4831.05
+REF-073-0004,COMPLETED,User initiated action entry,1592.85
+REF-073-0005,COMPLETED,Batch processed transaction,849.28
+REF-073-0006,ARCHIVED,Standard system log record,2852.83
+REF-073-0007,PENDING,High priority operational event,4566.88
+REF-073-0008,COMPLETED,Standard system log record,3981.88
+REF-073-0009,ARCHIVED,User initiated action entry,4711.28
+REF-073-0010,PENDING,User initiated action entry,1501.14
+REF-073-0011,ARCHIVED,High priority operational event,2083.13
+REF-073-0012,INACTIVE,User initiated action entry,2581.08
+REF-073-0013,ACTIVE,Batch processed transaction,4658.29
+REF-073-0014,INACTIVE,Batch processed transaction,920.79
+REF-073-0015,PENDING,Standard system log record,90.72
+REF-073-0016,ACTIVE,Standard system log record,4201.44
+REF-073-0017,ARCHIVED,Standard system log record,4125.64
+REF-073-0018,ACTIVE,Standard system log record,1584.62
+REF-073-0019,ACTIVE,Standard system log record,3245.88
+REF-073-0020,ARCHIVED,Batch processed transaction,4578.61
+REF-073-0021,ACTIVE,Automated IoT sensor telemetry data,2337.67
+REF-073-0022,PENDING,Standard system log record,1816.97
+REF-073-0023,INACTIVE,Batch processed transaction,4502.3
+REF-073-0024,INACTIVE,User initiated action entry,2987.83
+REF-073-0025,ARCHIVED,Standard system log record,3306.69
