@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-088-0001,ACTIVE,Batch processed transaction,1315.67
+REF-088-0002,PENDING,High priority operational event,428.01
+REF-088-0003,INACTIVE,Automated IoT sensor telemetry data,199.13
+REF-088-0004,ARCHIVED,High priority operational event,4836.95
+REF-088-0005,INACTIVE,User initiated action entry,385.67
+REF-088-0006,PENDING,User initiated action entry,4120.85
+REF-088-0007,COMPLETED,User initiated action entry,2964.54
+REF-088-0008,ACTIVE,High priority operational event,3029.58
+REF-088-0009,COMPLETED,User initiated action entry,3620.67
+REF-088-0010,ARCHIVED,User initiated action entry,4453.53
+REF-088-0011,INACTIVE,Standard system log record,740.76
+REF-088-0012,ACTIVE,Standard system log record,928.69
+REF-088-0013,PENDING,User initiated action entry,2924.69
+REF-088-0014,INACTIVE,Standard system log record,2983.95
+REF-088-0015,INACTIVE,Batch processed transaction,2002.27
+REF-088-0016,INACTIVE,Batch processed transaction,2600.41
+REF-088-0017,COMPLETED,User initiated action entry,1370.67
+REF-088-0018,INACTIVE,High priority operational event,4797.68
+REF-088-0019,ACTIVE,Batch processed transaction,4673.98
+REF-088-0020,ARCHIVED,User initiated action entry,1667.26
+REF-088-0021,COMPLETED,Standard system log record,3656.98
+REF-088-0022,PENDING,User initiated action entry,3926.4
+REF-088-0023,ACTIVE,Standard system log record,4376.14
+REF-088-0024,ACTIVE,High priority operational event,1789.56
+REF-088-0025,ARCHIVED,Standard system log record,1759.72
