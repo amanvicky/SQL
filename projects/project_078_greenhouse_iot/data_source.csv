@@ -1,0 +1,26 @@
+reference_code,status,description,amount
+REF-078-0001,PENDING,Batch processed transaction,4645.82
+REF-078-0002,ACTIVE,High priority operational event,2821.89
+REF-078-0003,COMPLETED,High priority operational event,4581.16
+REF-078-0004,INACTIVE,Batch processed transaction,4036.91
+REF-078-0005,ACTIVE,User initiated action entry,3404.81
+REF-078-0006,INACTIVE,Automated IoT sensor telemetry data,3357.95
+REF-078-0007,INACTIVE,Batch processed transaction,3735.49
+REF-078-0008,ARCHIVED,Batch processed transaction,2340.05
+REF-078-0009,ARCHIVED,Batch processed transaction,577.3
+REF-078-0010,ARCHIVED,Batch processed transaction,2944.1
+REF-078-0011,ACTIVE,High priority operational event,1499.75
+REF-078-0012,PENDING,Standard system log record,2411.36
+REF-078-0013,ARCHIVED,High priority operational event,3601.92
+REF-078-0014,INACTIVE,User initiated action entry,2682.72
+REF-078-0015,INACTIVE,Automated IoT sensor telemetry data,3667.93
+REF-078-0016,INACTIVE,High priority operational event,2390.21
+REF-078-0017,INACTIVE,High priority operational event,667.86
+REF-078-0018,ACTIVE,User initiated action entry,2527.98
+REF-078-0019,ACTIVE,User initiated action entry,2340.54
+REF-078-0020,INACTIVE,Batch processed transaction,4765.64
+REF-078-0021,PENDING,Automated IoT sensor telemetry data,1518.67
+REF-078-0022,ACTIVE,Automated IoT sensor telemetry data,3077.23
+REF-078-0023,ARCHIVED,User initiated action entry,629.24
+REF-078-0024,INACTIVE,Standard system log record,408.8
+REF-078-0025,INACTIVE,Automated IoT sensor telemetry data,905.0
